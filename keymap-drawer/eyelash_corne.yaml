@@ -1,6 +1,6 @@
 layers:
   QWERTY:
-  - $$mdi:keyboard-tab$$
+  - $$mdi:keyboard-esc$$
   - Q
   - W
   - E
@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - '&td0'
+  - $$mdi:apple-keyboard-control$$
   - A
   - S
   - D
@@ -28,7 +28,7 @@ layers:
   - L
   - {t: ;, s: ':'}
   - {t: '''', s: '"'}
-  - $$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-shift$$
   - Z
   - X
   - C
@@ -41,7 +41,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:keyboard-esc$$
+  - NUMBER
   - LGUI
   - NUMBER
   - {t: '$$mdi:keyboard-space$$', h: Fn}
@@ -90,9 +90,9 @@ layers:
   - RGB BRI
   - RGB BRD
   - END
-  - PG DN
+  - {t: PG DN, type: held}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {type: held alternate}
   - {t: '$$mdi:transfer$$', type: trans}
   - INS
   - $$mdi:backspace-reverse-outline$$
