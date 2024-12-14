@@ -6,7 +6,7 @@ layers:
   - E
   - R
   - T
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:pan-up$$
   - Y
   - U
   - I
@@ -35,7 +35,7 @@ layers:
   - V
   - B
   - $$mdi:volume-off$$
-  - $$mdi:arrow-down-bold$$
+  - $$mdi:pan-down$$
   - N
   - M
   - {t: ',', s: <}
