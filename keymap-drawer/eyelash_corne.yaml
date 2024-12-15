@@ -1,6 +1,6 @@
 layers:
   QWERTY:
-  - $$mdi:keyboard-tab$$
+  - $$mdi:keyboard-esc$$
   - Q
   - W
   - E
@@ -41,7 +41,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-esc$$', h: NUMBER}
+  - {t: '$$mdi:keyboard-return$$', h: NUMBER}
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
   - {t: '$$mdi:keyboard-space$$', h: Fn}
@@ -49,7 +49,7 @@ layers:
   - SYMBOL
   - {t: '''', s: '"'}
   NUMBER:
-  - $$mdi:keyboard-esc$$
+  - $$mdi:keyboard-tab$$
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
